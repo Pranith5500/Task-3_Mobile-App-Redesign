@@ -1,0 +1,31 @@
+Name: Nukala Pranith Reddy
+
+Email: pranithr572@gmail.com
+
+Internship: UI/UX Internship
+
+Task 3 
+
+CHOOSE A POPULAR MOBILE
+APP AND REDESIGN ITS UI/UX TO
+ADDRESS A SPECIFIC PAIN
+POINT.
+DELIVERABLE: A REDESIGNED
+PROTOTYPE WITH DETAILED
+EXPLANATIONS OF THE IMPROVEMENTS
+
+Font Used
+Plus Jakarta Sans : https://fonts.google.com/specimen/
+Plus+Jakarta+San
+
+
+Explanation :
+
+The selected application for redesign is the Cofeen Coffee Shop mobile app. The original interface contained multiple promotional elements, dense product cards, and closely packed components, which made it harder for users to quickly identify products and complete actions such as ordering or checkout.
+
+In the redesigned version, the layout was refined to improve usability and visual clarity. Spacing between sections and product cards was increased to reduce clutter and improve scanability. Typography was adjusted to enhance readability, and the visual hierarchy was improved to clearly highlight primary actions such as ordering and navigation. Unnecessary visual noise was reduced while maintaining the original color palette and brand identity.
+
+These improvements result in a cleaner interface, smoother user flow, and a more focused shopping experience, making it easier for users to browse products and complete orders efficiently.
+
+Figma File
+https://www.figma.com/design/VOkZpOAJtqUuwOLiCiCx3z/Cofeen---Coffe-Shop-App-UI?node-id=0-1&t=FXq8Lx3erZsaalvg-1
