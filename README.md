@@ -1,13 +1,25 @@
 # Task 3 – Mobile App UI/UX Redesign
 
+## Company Name
+CODTECH IT SOLUTIONS
+
 ## Intern Name
-Nukala Pranith Reddy  
+Nukala Pranith Reddy
+
+## Intern ID
+CTIS1557
 
 ## Email
 pranithr572@gmail.com  
 
-## Internship
-UI/UX Internship  
+## Domain
+UI/UX Internship 
+
+## Duration
+4 WEEKS
+
+## Mentor
+Neela Santhosh
 
 ---
 
